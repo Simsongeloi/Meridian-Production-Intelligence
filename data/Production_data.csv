@@ -1,0 +1,9 @@
+Date,Product,Planned_Units,Actual_Units,Downtime_Minutes,Waste_Units,Cost_Per_Unit
+2026-10-01,Chicken Breast,5000,4650,45,120,3.50
+2026-10-01,Turkey Breast,4200,4000,30,85,4.25
+2026-10-02,Chicken Breast,5200,4800,60,150,3.50
+2026-10-02,Turkey Breast,4300,4150,20,70,4.25
+2026-10-03,Chicken Breast,5100,4950,25,95,3.50
+2026-10-03,Turkey Breast,4400,4050,50,110,4.25
+2026-10-04,Chicken Breast,5300,4900,55,140,3.50
+2026-10-04,Turkey Breast,4500,4250,35,90,4.25
